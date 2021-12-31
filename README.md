@@ -20,6 +20,9 @@ Use Brave Browser!! The best browser in the world!!
 ------------
 
 
+[![](https://github.com/ethfannum1/NFTS_OPENSEA_IPFS/blob/main/code.jpg)](https://github.com/ethfannum1/NFTS_OPENSEA_IPFS/blob/main/code.jpg)
+
+------------
 
 [![](https://github.com/ethfannum1/NFTS_OPENSEA_IPFS/blob/main/1.jpg)](https://github.com/ethfannum1/NFTS_OPENSEA_IPFS/blob/main/1.jpg)
 
