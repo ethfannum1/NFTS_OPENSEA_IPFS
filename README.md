@@ -8,7 +8,7 @@
 
 Check all this project to learn how to write NFTs and uploading to OpenSea via IPFS.
 
-Please read the explanations in the contract folder and in the next images.
+Please read the explanations in the contracts folder and in the next images.
 
 Remember I accept BAT Token tips to this channel. Thanks a lot!
 
