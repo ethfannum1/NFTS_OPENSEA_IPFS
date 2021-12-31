@@ -1,0 +1,11 @@
+{
+"description": "NFT - 2",
+"image": "https://gateway.pinata.cloud/ipfs/QmNrmzSFK73KhBjbPHNmxW13au2HJEJfaCQeB4maQeredz",
+"name": "NFT#2",
+"atributes": [
+    {
+        "trait_type": "T2",
+        "value": "2"
+    }
+]
+}
